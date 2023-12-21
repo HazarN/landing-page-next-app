@@ -2,7 +2,7 @@ import styles from '../styles/Mid.module.css';
 
 const Mid = () => {
     return (
-        <section className={`${styles['sm-padding']} mid-container flex flex-col justify-center p-20 `}>
+        <section className={`${styles['sm-padding']} mid-container flex flex-col justify-center p-20`}>
             <h1 className='text-3xl font-bold pb-5'> Who we are </h1>
 
             <p className='text-xl'>
