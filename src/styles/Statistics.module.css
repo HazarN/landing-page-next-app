@@ -1,0 +1,13 @@
+.statistics-container {
+    background: black;
+}
+
+.statistics-container, .ylw {
+    color: #FEC00A;
+}
+
+@media (max-width: 1024px) {
+    .sm-gap {
+        gap: 3.5rem;
+    }
+}
